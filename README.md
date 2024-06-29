@@ -9,7 +9,7 @@ I'm a passionate developer specializing in **C#/.NET**. I work on both **fronten
 Currently, I'm focused on developing projects that help me enhance my skills in both frontend and backend technologies. I believe in continuous learning and am excited to share my journey with the GitHub community.
 
 ## Get in Touch
-- **Website**: [yanghuagai1603](https://x.com/yanghuagai1603)
+- **X**: [yanghuagai1603](https://x.com/yanghuagai1603)
 - **Email**: [develop_yang@outlook.com](mailto:develop_yang@outlook.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
